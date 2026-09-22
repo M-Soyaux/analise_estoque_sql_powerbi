@@ -70,6 +70,12 @@ As **12 medidas DAX**, com suas fórmulas e interpretações, estão em [medidas
 
 Nos gráficos percentuais, o denominador é o total de SKUs da categoria no contexto dos filtros aplicados.
 
+## Dashboard Power BI
+
+O dashboard foi desenvolvido para acompanhar indicadores de estoque, identificar situações que exigem atenção e apoiar a análise da disponibilidade dos produtos.
+
+![Dashboard de análise de estoque](images/Dash%20Projeto.png.png)
+
 ## Principais resultados e interpretação
 
 Os resultados abaixo consideram a base completa, sem seleção de categoria:
