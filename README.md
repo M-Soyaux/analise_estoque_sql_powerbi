@@ -74,7 +74,7 @@ Nos gráficos percentuais, o denominador é o total de SKUs da categoria no cont
 
 O dashboard foi desenvolvido para acompanhar indicadores de estoque, identificar situações que exigem atenção e apoiar a análise da disponibilidade dos produtos.
 
-![Dashboard de análise de estoque](./images/dashboard_estoque.png)
+![Dashboard de análise de estoque](https://raw.githubusercontent.com/M-Soyaux/analise_estoque_sql_powerbi/main/images/dashboard_estoque.png)
 
 ## Principais resultados e interpretação
 
