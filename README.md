@@ -55,7 +55,7 @@ As dimensões se relacionam com a fato em relações de um para muitos, com filt
 
 ## Documentação das medidas
 
-As **12 medidas DAX**, com suas fórmulas e interpretações, estão em [medidas_dax.md](medidas_dax.md). As expressões foram obtidas diretamente do modelo aberto no Power BI por meio de `INFO.VIEW.MEASURES()`.
+As **12 medidas DAX**, com suas fórmulas e interpretações. As expressões foram obtidas diretamente do modelo aberto no Power BI por meio de `INFO.VIEW.MEASURES()`.
 
 ## Indicadores apresentados no Power BI
 
