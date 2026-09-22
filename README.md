@@ -1,4 +1,3 @@
-# analise_estoque_sql_powerbi[README (1).md](https://github.com/user-attachments/files/32540689/README.1.md)
 # Análise de Estoque com SQL e Power BI
 
 Projeto pessoal de análise de dados simulados de 3.204 SKUs, distribuídos em cinco categorias e quatro zonas de armazenagem. O objetivo é identificar situações que merecem investigação na reposição, na disponibilidade de produtos e na operação do estoque.
